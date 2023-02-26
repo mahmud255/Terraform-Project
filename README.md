@@ -1,1 +1,1 @@
-## Certified Terraform Associate & TF Automation Code Samples
+## TF Practice Samples
