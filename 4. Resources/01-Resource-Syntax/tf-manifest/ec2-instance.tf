@@ -4,6 +4,7 @@ resource "aws_instance" "ec2-vm" {
   availability_zone = "ap-southeast-1a"
   tags = {
     "Name" = "web"
+    "ENV"  = "Dev"
   }
 
 }
