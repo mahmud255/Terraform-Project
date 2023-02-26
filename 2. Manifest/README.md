@@ -1,11 +1,13 @@
-# Terraform Configuration Language Syntax
+## Terraform Configuration Language Syntax
 
 ## Step-01: Introduction
-- Understand Terraform Language Basics
+```
+  - Understand Terraform Language Basics
   - Understand Blocks
   - Understand Arguments, Attributes & Meta-Arguments
   - Understand Identifiers
   - Understand Comments
+  ```
 
 ## Step-02: Terraform Configuration Language Syntax
 - Understand Blocks
@@ -27,7 +29,8 @@
 - [Resource: Meta-Arguments](https://www.terraform.io/docs/language/meta-arguments/depends_on.html)
 
 ## Step-04: Understand about Terraform Top-Level Blocks
-- Discuss about Terraform Top-Level blocks
+  ```
+  - Discuss about Terraform Top-Level blocks
   - Terraform Settings Block
   - Provider Block
   - Resource Block
@@ -36,3 +39,4 @@
   - Local Values Block
   - Data Sources Block
   - Modules Block
+  ```
