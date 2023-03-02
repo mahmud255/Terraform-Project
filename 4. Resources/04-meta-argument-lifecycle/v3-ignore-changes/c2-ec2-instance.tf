@@ -13,7 +13,7 @@ resource "aws_instance" "web" {
   lifecycle {
     ignore_changes = [
       # Ignore changes to tags, e.g. because a management agent
-      tags,
+      tags
 
     ]
   }
